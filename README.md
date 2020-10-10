@@ -70,6 +70,3 @@ The setup is complete. Run a local server with
 
 The blog should be available at `localhost:8000`.
 
-## What's next?
-
-At this point, one may want to create a superuser account, create the Editors group and add a few users to this group.
