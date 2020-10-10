@@ -1,9 +1,7 @@
-# blog-django
+# **blog-django** :smile::smile:
 Simple Django blogging app
 
- ![blog](https://github.com/kkosiba/blog-django/blob/master/pics/main.png)
 
-For more pictures, see `pics` directory. See also `https://django-blog-1k4z.herokuapp.com/` for the deployed version. With sample content. For testing purposes several accounts are created. Credentials: `(X, Xpassword)`, where `X=anna, bob, chris`.
 
 Features
 --------
